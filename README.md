@@ -31,5 +31,5 @@ The game attracts a lot of youth because of the gamified aspect of the app and t
  
 The game will not have specific age audiences and will be informative for many age stages.
 
-#app-preview
+# App-preview
 ![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/c21f6cd3-ed09-4914-baf1-0bdedd6d9c39)
