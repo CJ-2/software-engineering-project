@@ -1,8 +1,8 @@
 # software-engineering-project
-1-Project scope
+Project scope:
 The game is going to be called (المثقف) and it will have multiple levels to test the player knowledge from multiple genres and fields (mathematics, geography, etc.…)  and it will have An easy-to-use settings menu for controlling sound and personal progress with a good looking GUI and appealing colors that represent knowledge and learning,  the game will have a dark theme because these days people prefer dark mode over light mode and it is more comfortable for the eye, we did researches on the colors and found out that blue represent knowledge and learning so we choose blue as our logo color, the app will have good visuals and animations, the data base will store the user information and quizzes.
  
-1-Project Objectives
+# Project Objectives
 1-    Easy to use UI/UX.
 2-    Multiple genres to choose from to attract more audience.
 3-    Score tracking to add more challenge and fun.
