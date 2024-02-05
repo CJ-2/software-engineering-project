@@ -4,18 +4,31 @@ The game is going to be called (المثقف) and it will have multiple levels t
  
 # Project Objectives
 1-    Easy to use UI/UX.
+
 2-    Multiple genres to choose from to attract more audience.
+
 3-    Score tracking to add more challenge and fun.
+
 4-    Setting menu to edit the audio and sound effects.
+
 5-    An easy to remember logo to make an identity for the app.
+
 6-    Each genre has multiple levels that goes harder until the final level.
+
 7-    A logo that is easy to remember.
+
 8-    a progress bar to show how many questions are remaining.
+
 9-    Every quiz will have a duration shown.
-10-   a description about the quiz content
+
+10-   a description about the quiz content.
+
 11-   the ability to create quizzes from inside the app.
+
 12-   a good animation for the visuals.
+
 13-   database creation.
+
 14-   The game must be harder each level
  
  
