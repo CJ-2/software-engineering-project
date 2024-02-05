@@ -36,6 +36,8 @@ The game will not have specific age audiences and will be informative for many a
 ![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/8b0fe47f-75fd-4037-9f04-6bab65a7dd95)
 ![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/9ac33d17-67e5-4052-87f2-befe5290f9b2)
 ![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/052b0233-b0c9-46e3-b953-c4d03f7d372f)
+
 ![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/8a99d6fb-0ce3-46fd-8dca-ea600a0c2ee6)
+
 ![image](https://github.com/CJ-2/software-engineering-project/assets/56313495/4e7e7263-2a00-4227-8a0a-bce2f9101989)
 
